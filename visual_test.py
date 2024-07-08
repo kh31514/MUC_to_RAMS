@@ -101,7 +101,7 @@ def gen_html(data, ind):
 
 if __name__ == "__main__":
 
-    f = open('data/MUC_raw/MUC_consolodation.json')
+    f = open('data/MUC_raw/MUC_consolidation.json')
     data = json.load(f)
     gen_html(data, 102)
 
