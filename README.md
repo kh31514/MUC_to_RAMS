@@ -24,4 +24,4 @@ pip install spacy
 python -m spacy download en_core_web_sm
 ```
 ## Contributors
-MUC consolidation data annotated by Katie Huntley, Ben Aquilina-Piscitello, Majd Aldaye, Wayne Chen, and Shaden Shaar.
+MUC consolidation data annotated by [Katie Huntley](https://www.linkedin.com/in/katieahuntley/), [Ben Aquilina-Piscitello](https://www.linkedin.com/in/ben-aquilina-piscitello-487ba6258/), [Majd Aldaye](https://www.linkedin.com/in/majd-aldaye-9358731a5/), [Wayne Chen](https://www.linkedin.com/in/waynechen314/), and [Shaden Shaar](https://www.linkedin.com/in/shaden-shaar-7a33a2167/).
