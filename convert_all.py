@@ -4,7 +4,7 @@ import jsonlines
 
 
 if __name__ == "__main__":
-    muc = open('data/MUC_raw/MUC_consolodation.json')
+    muc = open('data/MUC_raw/MUC_consolidation.json')
     data = json.load(muc)
 
     # clear the file
